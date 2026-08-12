@@ -1,0 +1,7 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.0.7
+  file_picker: ^8.0.0
+  shared_preferences: ^2.2.2
+  audioplayers: ^6.0.0
